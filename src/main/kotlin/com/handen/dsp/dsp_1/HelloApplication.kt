@@ -1,4 +1,4 @@
-package com.handen.cos.cos_1
+package com.handen.dsp.dsp_1
 
 import javafx.application.Application
 import javafx.scene.Scene
@@ -9,7 +9,6 @@ import javafx.scene.chart.XYChart.Series
 import javafx.stage.Stage
 import kotlin.math.PI
 import kotlin.math.sin
-
 
 class HelloApplication : Application() {
     override fun start(stage: Stage) {

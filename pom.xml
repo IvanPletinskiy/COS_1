@@ -88,7 +88,7 @@
                         <!-- Default configuration for running with: mvn clean javafx:run -->
                         <id>default-cli</id>
                         <configuration>
-                            <mainClass>com.handen.cos.cos_1/com.handen.cos.cos_1.HelloApplication</mainClass>
+                            <mainClass>com.handen.dsp.cos_1/com.handen.dsp.dsp_1.HelloApplication</mainClass>
                             <launcher>app</launcher>
                             <jlinkZipName>app</jlinkZipName>
                             <jlinkImageName>app</jlinkImageName>

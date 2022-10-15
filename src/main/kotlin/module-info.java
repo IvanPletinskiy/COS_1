@@ -7,8 +7,8 @@ module com.handen.cos.cos_1 {
     requires com.dlsc.formsfx;
     requires org.kordamp.bootstrapfx.core;
 
-    opens com.handen.cos.cos_1 to javafx.fxml;
-    exports com.handen.cos.cos_1;
+    opens com.handen.dsp.dsp_1 to javafx.fxml;
+    exports com.handen.dsp.dsp_1;
     opens com.handen.saimmot to javafx.fxml;
     exports com.handen.saimmot;
 }
